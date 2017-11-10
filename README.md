@@ -1,6 +1,7 @@
 # web_crawler
-html—>pdf
-libraries: requests, beautifulsoup4, and pdfkit
+This web crawler is particularly used for crawling the information from websites and save it into html, and then transfer to pdf. After that, remove the htmls.
+
+Required libraries for this web crawler: requests, beautifulsoup4, and pdfkit
 (scrapy can be used for more complicated crawlers)
 (1)reuqests is used for http requests
 (2)beautifusoup is used for parsing html, 
